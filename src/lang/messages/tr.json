@@ -1,0 +1,19 @@
+{
+  "IndexPage": {
+    "title": "next-intl örnek",
+    "description": "Next.js Uluslararasılaştırma (i18n) örneğine hoş geldiniz! Bu demo, Uygulama Yönlendiricinin gücünü ve next-intl kullanılarak çok dilli içeriğin sorunsuz bir şekilde nasıl yönetileceğini gösterir."
+  },
+  "NotFoundPage": {
+    "title": "Sayfa bulunamadı",
+    "description": "Hata! Var olmayan bir sayfaya rastlamışsınız gibi görünüyor. Endişelenmeyin, uluslararasılaştırma sihrimiz uygulamanın diğer bölümlerinde hâlâ etkili. Daha fazlasını keşfetmek için geri dönmekten çekinmeyin!"
+  },
+  "Navigation": {
+    "home": "Anasayfa"
+  },
+  "Footer": {
+    "copyright": "© 2024 Uygulamanız. Her hakkı saklıdır."
+  },
+  "Error": {
+    "not-found": "Sayfa bulunamadı"
+  }
+}
